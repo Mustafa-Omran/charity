@@ -25,12 +25,10 @@
 
 <body>
 
-    <!--================Header Menu Area =================-->
     <header class="header_area">
         <div class="main_menu">
             <nav class="navbar navbar-expand-lg navbar-light">
                 <div class="container">
-                    <!-- Brand and toggle get grouped for better mobile display -->
                     <a class="navbar-brand logo_h" href="index.html">
                         <img src="img/logo.jpeg" alt="" style="height: 60px; width: 150">
                     </a>
@@ -39,7 +37,6 @@
                         <span class="icon-bar"></span>
                         <span class="icon-bar"></span>
                     </button>
-                    <!-- Collect the nav links, forms, and other content for toggling -->
                     <div class="collapse navbar-collapse offset" id="navbarSupportedContent">
                         <div class="row ml-0 w-100">
                             <div class="col-lg-12 pr-0">
@@ -68,73 +65,75 @@
             </nav>
         </div>
     </header>
-    <!--================Header Menu Area =================-->
-
-    <!--================ Home Banner Area =================-->
     <section class="home_banner_area">
         <div class="overlay"></div>
         <div class="banner_inner d-flex align-items-center">
             <div class="container">
                 <div class="banner_content row">
                     <div class="offset-lg-2 col-lg-8">
-                        <img class="img-fluid" src="img/banner/text-img.png" alt="">
-                        <p>احمد الشقيري<br> إمتناعك عن إلقاء القمامة في الشارع يعني توفيرك إنحناءة لظهر عامل النظافة<br> فهل من إحسان لديكم ؟!</p>
+                        <p style="font-size: 30px">احمد الشقيري<br> إمتناعك عن إلقاء القمامة في الشارع يعني توفيرك إنحناءة لظهر عامل النظافة<br> فهل من إحسان لديكم ؟!</p>
                         <a class="main_btn mr-10" href="#">تبرع اﻻن</a>
                     </div>
                 </div>
             </div>
         </div>
     </section>
-    <!--================ End Home Banner Area =================-->
-
-
-    <!--================ Start important-points section =================-->
     <section class="donation_details pad_top">
         <div class="container">
             <div class="row">
                 <div class="col-lg-3 col-md-6 single_donation_box">
                     <img src="img/icons/home1.png" alt="">
-                    <h4>Total Donation</h4>
+                    <h4>أرغب بالتبرع .. الرجاء التواصل معي ..!</h4>
                     <p>
-                        The French Revolutioncons tituted for the conscience of the dominant.
-                    </p>
+                        نتشرف باستقبال تبرعاتكم .. وهناك عدة طرق لاستقبالها:
+
+                        - تزويدنا بأرقام التواصل معكم.. وسيقوم أحد مندوبينا المعتمدين بالاتصال بكم
+
+                        - زيارة مقر الجمعية – منطقة الكرامة في عجمان أو عن طريق مكتبنا في منطقة الجرف
+
+                        - زيارة مقر فرع جمعية الإحسان في إمارة رأس الخيمة
+
+                        - أو المساهمة من خلال الكوبونات المتوفرة لدى مندوبي الجمعية في مراكز التسوق </p>
                 </div>
                 <div class="col-lg-3 col-md-6 single_donation_box">
                     <img src="img/icons/home2.png" alt="">
-                    <h4>Fund Raised</h4>
+                    <h4>متى تبدأ المساعدات الدراسية؟
+
+                    </h4>
                     <p>
-                        The French Revolutioncons tituted for the conscience of the dominant.
+                        يتم الإعلان عن موعد استقبال طلبات المساعدات بشكل دوري من خلال الموقع الإلكتروني للجمعية وعبر وسائل التواصل الاجتماعي التابعة لها
+
                     </p>
                 </div>
                 <div class="col-lg-3 col-md-6 single_donation_box">
                     <img src="img/icons/home3.png" alt="">
-                    <h4>Highest Donation</h4>
+                    <h4>ما هي الأوراق المطلوبة لفتح ملف مساعدات في الجمعية؟
+
+                    </h4>
                     <p>
-                        The French Revolutioncons tituted for the conscience of the dominant.
+                        تقديم المستندات الثبوتية لجميع أفراد الأسرة وهي عبارة عن صورة من جوازات السفر والإقامات والهوية الإماراتية، إضافة إلى عقد الإيجار وفاتورة الكهرباء وشهادة راتب، وأية أوراق أخرى تثبت الالتزامات المالية المترتبة على رب الأسرة أو من يعولها ، علماً أن طلب "تسجيل المساعدات" يتم فقط من خلال الموقع الإلكتروني للجمعية (يمكنكم الاطلاع على قائمة المستندات المطلوبة من خلال الموقع)
+
                     </p>
                 </div>
                 <div class="col-lg-3 col-md-6 single_donation_box">
                     <img src="img/icons/home4.png" alt="">
-                    <h4>Total Donation</h4>
+                    <h4>هل تكفل الجمعية الأيتام خارج الدولة؟
+
+                    </h4>
                     <p>
-                        The French Revolutioncons tituted for the conscience of the dominant.
+                        نعم، تكفل الجمعية عدد من الأيتام خارج الدولة، وتقوم بتوفير مبالغ مالية لهم من خلال المحسنين الذين يرغبون بكفالتهم شهرياً، كما تكفل أيضاً أيتاماً داخل دولة الإمارات العربية المتحدة. وعند زيارتكم لمقر جمعية الإحسان الخيرية، يمكنكم الحصول على "استمارة كفالة يتيم"، لإتمام إجراءات الكفالة المطلوبة.
+
                     </p>
                 </div>
             </div>
         </div>
     </section>
-    <!--================ End important-points section =================-->
 
-    <!--================ Start Our Major Cause section =================-->
     <section class="our_major_cause section_gap">
         <div class="container">
             <div class="row justify-content-center section-title-wrap">
                 <div class="col-lg-12">
-                    <h1>Our Major Causes</h1>
-                    <p>
-                        The French Revolution constituted for the conscience of the dominant aristocratic class a fall from innocence the natural
-                        chain of events.
-                    </p>
+                    <h1>المشاريع</h1>
                 </div>
             </div>
 
@@ -145,20 +144,13 @@
                             <figure>
                                 <img class="card-img-top img-fluid" src="img/donation/d1.jpg" alt="Card image cap">
                             </figure>
-                            <div class="progress">
-                                <div class="progress-bar" role="progressbar" aria-valuenow="76" aria-valuemin="0" aria-valuemax="100" style="width: 76%;">
-                                    <span>Funded 76%</span>
-                                </div>
-                            </div>
+
                             <div class="card_inner_body">
-                                <div class="card-body-top">
-                                    <span>Raised: $7,689</span> / $10,000
-                                </div>
-                                <h4 class="card-title">Did not find your Package</h4>
-                                <p class="card-text">inappropriate behavior is often laughed off as “boys will be boys,” women face higher conduct standards especially
-                                    in the workplace that’s why it’s crucial.
+
+                                <h4 class="card-title">مشـــروع حــج البـدل
+                                </h4>
+                                <p class="card-text">يهدف المشروع في أساسه إلى طاعة وبر الوالدين والأقربين، بأداء مناسك الحج عنهم إن كانوا مرضى أو عاجزين أو متوفين، يرجو المساهم فيها ثواب الأجر من الله تعالى على إحسانه بهم، ويؤدي حج البدل أشخاص مؤهلين مقيمين في مكة المكرمة، ممن يعرفون شروط وضوابط وأحكام "حج البدل"، يتم تكليفهم بأداء مناسك الحج عن الحالات المجاز الحج بدلاً عنها شرعاً.
                                 </p>
-                                <a href="#" class="main_btn2">donate here</a>
                             </div>
                         </div>
                     </div>
@@ -168,20 +160,10 @@
                             <figure>
                                 <img class="card-img-top img-fluid" src="img/donation/d2.jpg" alt="Card image cap">
                             </figure>
-                            <div class="progress">
-                                <div class="progress-bar" role="progressbar" aria-valuenow="76" aria-valuemin="0" aria-valuemax="100" style="width: 76%;">
-                                    <span>Funded 76%</span>
-                                </div>
-                            </div>
                             <div class="card_inner_body">
-                                <div class="card-body-top">
-                                    <span>Raised: $7,689</span> / $10,000
-                                </div>
-                                <h4 class="card-title">Did not find your Package</h4>
-                                <p class="card-text">inappropriate behavior is often laughed off as “boys will be boys,” women face higher conduct standards especially
-                                    in the workplace that’s why it’s crucial.
+                                <h4 class="card-title">مشــروع الحقيبـة المدرسيـة</h4>
+                                <p class="card-text">تعتبر "الحقيبة المدرسية" ضمن المشاريع الرئيسية التي تنفذها جمعية الإحسان الخيرية بداية كل عام دراسي للمساهمة في مساعدة الطلاب على توفير احتياجاتهم المدرسية من حقائب وقرطاسية وأقلام، إيماناً بأحقية العلم لكل فرد للمساهمة في إنشاء جيلٍ متعلمٍ واعٍ يخدم وطنه ومجتمعه، وقد كان لهذا المشروع عظيم الأثر في رسم البسمة على وجوه الطلبة وإدخال الفرحة إلى قلوبهم وتخفيف المعاناة عن كاهل أسرهم.
                                 </p>
-                                <a href="#" class="main_btn2">donate here</a>
                             </div>
                         </div>
                     </div>
@@ -191,20 +173,13 @@
                             <figure>
                                 <img class="card-img-top img-fluid" src="img/donation/d3.jpg" alt="Card image cap">
                             </figure>
-                            <div class="progress">
-                                <div class="progress-bar" role="progressbar" aria-valuenow="76" aria-valuemin="0" aria-valuemax="100" style="width: 76%;">
-                                    <span>Funded 76%</span>
-                                </div>
-                            </div>
+
                             <div class="card_inner_body">
-                                <div class="card-body-top">
-                                    <span>Raised: $7,689</span> / $10,000
-                                </div>
-                                <h4 class="card-title">Did not find your Package</h4>
-                                <p class="card-text">inappropriate behavior is often laughed off as “boys will be boys,” women face higher conduct standards especially
-                                    in the workplace that’s why it’s crucial.
+
+                                <h4 class="card-title">مشــروع الحملـة الشتويـة
+                                </h4>
+                                <p class="card-text">مكن للمتبرعين الأكارم المساهمة في مشروع "الحملة الشتوية" من خلال الكوبونات المتوفرة لدى مندوبينا، أو زيارة مقر الجمعية - منطقة الكرامة في عجمان، أو عن طريق مكتبنا في منطقة الجرف.. أو من خلال فرع "الإحسان" في إمارة رأس الخيمة.
                                 </p>
-                                <a href="#" class="main_btn2">donate here</a>
                             </div>
                         </div>
                     </div>
@@ -214,108 +189,29 @@
                             <figure>
                                 <img class="card-img-top img-fluid" src="img/donation/d2.jpg" alt="Card image cap">
                             </figure>
-                            <div class="progress">
-                                <div class="progress-bar" role="progressbar" aria-valuenow="76" aria-valuemin="0" aria-valuemax="100" style="width: 76%;">
-                                    <span>Funded 76%</span>
-                                </div>
-                            </div>
+
                             <div class="card_inner_body">
-                                <div class="card-body-top">
-                                    <span>Raised: $7,689</span> / $10,000
-                                </div>
-                                <h4 class="card-title">Did not find your Package</h4>
-                                <p class="card-text">inappropriate behavior is often laughed off as “boys will be boys,” women face higher conduct standards especially
-                                    in the workplace that’s why it’s crucial.
+
+                                <h4 class="card-title">مشــروع كسـوة العيـد
+                                </h4>
+                                <p class="card-text">ويمكن للمتبرعين الأكارم المساهمة في مشروع "كسوة العيد" من خلال الكوبونات المتوفرة لدى مندوبينا، أو زيارة مقر الجمعية - منطقة الكرامة في عجمان، أو عن طريق مكتبنا في منطقة الجرف، أو من خلال فرع "الإحسان" في إمارة رأس الخيمة
                                 </p>
-                                <a href="#" class="main_btn2">donate here</a>
                             </div>
                         </div>
                     </div>
 
-                    <div class="card">
-                        <div class="card-body">
-                            <figure>
-                                <img class="card-img-top img-fluid" src="img/donation/d3.jpg" alt="Card image cap">
-                            </figure>
-                            <div class="progress">
-                                <div class="progress-bar" role="progressbar" aria-valuenow="76" aria-valuemin="0" aria-valuemax="100" style="width: 76%;">
-                                    <span>Funded 76%</span>
-                                </div>
-                            </div>
-                            <div class="card_inner_body">
-                                <div class="card-body-top">
-                                    <span>Raised: $7,689</span> / $10,000
-                                </div>
-                                <h4 class="card-title">Did not find your Package</h4>
-                                <p class="card-text">inappropriate behavior is often laughed off as “boys will be boys,” women face higher conduct standards especially
-                                    in the workplace that’s why it’s crucial.
-                                </p>
-                                <a href="#" class="main_btn2">donate here</a>
-                            </div>
-                        </div>
-                    </div>
-
-                    <div class="card">
-                        <div class="card-body">
-                            <figure>
-                                <img class="card-img-top img-fluid" src="img/donation/d1.jpg" alt="Card image cap">
-                            </figure>
-                            <div class="progress">
-                                <div class="progress-bar" role="progressbar" aria-valuenow="76" aria-valuemin="0" aria-valuemax="100" style="width: 76%;">
-                                    <span>Funded 76%</span>
-                                </div>
-                            </div>
-                            <div class="card_inner_body">
-                                <div class="card-body-top">
-                                    <span>Raised: $7,689</span> / $10,000
-                                </div>
-                                <h4 class="card-title">Did not find your Package</h4>
-                                <p class="card-text">inappropriate behavior is often laughed off as “boys will be boys,” women face higher conduct standards especially
-                                    in the workplace that’s why it’s crucial.
-                                </p>
-                                <a href="#" class="main_btn2">donate here</a>
-                            </div>
-                        </div>
-                    </div>
-
-                    <div class="card">
-                        <div class="card-body">
-                            <figure>
-                                <img class="card-img-top img-fluid" src="img/donation/d2.jpg" alt="Card image cap">
-                            </figure>
-                            <div class="progress">
-                                <div class="progress-bar" role="progressbar" aria-valuenow="76" aria-valuemin="0" aria-valuemax="100" style="width: 76%;">
-                                    <span>Funded 76%</span>
-                                </div>
-                            </div>
-                            <div class="card_inner_body">
-                                <div class="card-body-top">
-                                    <span>Raised: $7,689</span> / $10,000
-                                </div>
-                                <h4 class="card-title">Did not find your Package</h4>
-                                <p class="card-text">inappropriate behavior is often laughed off as “boys will be boys,” women face higher conduct standards especially
-                                    in the workplace that’s why it’s crucial.
-                                </p>
-                                <a href="#" class="main_btn2">donate here</a>
-                            </div>
-                        </div>
-                    </div>
                 </div>
             </div>
         </div>
     </section>
-    <!--================ Ens Our Major Cause section =================-->
 
-    <!--================ Start Experience Area =================-->
     <section class="experience_donation section_gap">
         <div class="container">
             <div class="row align-items-center justify-content-center">
                 <div class="col-lg-12">
-                    <h1>Experience How your Donation Can Reach</h1>
-                    <p>he French Revolution constituted for the conscience of the dominant aristocratic class a fall from innocence, and upturning
-                        of the natural chain of events that resounded.</p>
-                    <a href="#" class="main_btn2 mr-10">make donation now</a>
-                    <a href="#" class="main_btn2">Create Fundraising today</a>
+                    <h1>مرحبا بكم في الجمعية الخيرية</h1>
+                    <a href="#" class="main_btn2 mr-10">تبرع اﻻن</a>
+                    <a href="#" class="main_btn2">محتاج مساعدة</a>
                 </div>
             </div>
         </div>
